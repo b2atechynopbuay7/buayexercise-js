@@ -32,3 +32,8 @@ function Palindrome(entry){
         console.log("The entry is a palindrome.");
         return true;
     }
+
+// To check with an example
+Palindrome("madam");
+Palindrome("Mohamed");
+Palindrome("Buay");
